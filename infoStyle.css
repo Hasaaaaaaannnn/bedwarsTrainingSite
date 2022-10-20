@@ -1,0 +1,26 @@
+#body{
+    background: #e6e6e6;
+}
+a{
+    text-decoration: none;
+color: #414141;
+
+    }
+h1, h2, h3{
+    margin: 0;
+}
+#container{
+    background: #DADADA;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    background: #4B9ED8;
+    color: white;
+    text-align: center;
+}
+#nav{
+text-align: center;
+left: 20;
+}

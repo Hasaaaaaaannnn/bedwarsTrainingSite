@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    font-family: sans-serif;
+
+}
+
+.input_container{
+    margin-bottom: 15px;
+    max-width: 300px;
+background: #8AE681;
+color: white;
+font-size: 100px;
+}
+
+.input{
+    display: block;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}

@@ -1,0 +1,26 @@
+body{
+    background: rgb(255, 255, 255);
+}
+a{
+    text-decoration: none;
+    color: rgb(232, 234, 235);
+}
+#container{
+    background: #c9cbcc;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header{
+    background: #4B9ED8;
+    color: white;
+    text-align: center;
+}
+#main{
+    width: 600px;
+    float: right;
+}
+#nav{
+    text-align: center;
+    float: left;
+}
